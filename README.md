@@ -1,2 +1,2 @@
 # jsm2019-test
-minor chang to this document
+minor change to this document
